@@ -14,8 +14,8 @@ Sub initialize_global_variables()
     ReDim SLICER_ITEM_1(6) ' ReDim to the correct number of items in your first slicer
     ReDim SLICER_ITEM_2(5) ' ReDim to the correct number of items in your second slicer
     
-    SLICER_ITEM_1 = Array("", "", "", "", "", "")
-    SLICER_ITEM_2 = Array("", "", "", "", "")
+    SLICER_ITEM_1 = Array("", "", "", "", "", "") ' Should be the items in your slicer
+    SLICER_ITEM_2 = Array("", "", "", "", "") ' should be the items in another slicer if you have more than one
 
 End Sub
 

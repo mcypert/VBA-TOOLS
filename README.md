@@ -1,6 +1,6 @@
 # VBA-TOOLS
 
-All the tools I have develoed in VBA while working as a Actuary.
+All the tools I have developed in VBA while working as a Actuary.
 
 Custom Table Creator:
 
